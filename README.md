@@ -1,3 +1,3 @@
 # apnacollage-demo
 This is first Git Repository
-Authoe- Nihal Mishra
+Author- Nihal Mishra
